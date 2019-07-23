@@ -1,22 +1,18 @@
-# ♠️ Week08 Bootcamp2019a Project: Matching Card Game
+# Palindrome
 
-### Goal: Make a 10 card memory game - users must be able to select two cards and check if they are a match. If they are a match, they stay flipped. If not, they flip back over. Game is done when all cards are matched and flipped over. Example: http://www.fruit-burst.co.uk/fun-and-games/pairs-game 
+I Created a simple web application that uses the fs and http modules to validate if a string is a palindrome server side.
+A palindrome is a word or sentence that reads the same forward as it does backward.
 
-### How to submit your code for review:
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+(https://drive.google.com/file/d/1C7mfB7bMx9N_8c07knUIotzSdKA_gZOh/view?usp=sharing)
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+## How It's Made:
+
+**Tech used:** HTML, CSS, JavaScript, Node js
+
+In this web application I was tasked with making a palindrome checke. The methods I used were .split() .reverse() .join(). I also used an api to to call thoes methods on the input value to check if what was entered was actually a palodrome .  
+
+## Lessons Learned:
+
+The things that I learned when building this application was the client side code is what the user can see and interact with and server side code is the behind the scenes and the algerium communicate with client side code. When both sides come together you have a full stack web application.
+
